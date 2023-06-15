@@ -23,6 +23,7 @@ eu finalizei o projeto, e ele teve o comportamento parecido com o gif abaixo:
 </details>
 <br />
 
+<details>
 <summary><strong>Habilidades Adquiridas ao realizar este projeto</strong></summary><br />
 
   Nesse projeto, eu fui capaz de:
